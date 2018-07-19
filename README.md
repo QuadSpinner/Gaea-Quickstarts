@@ -1,2 +1,2 @@
 # Gaea-Quickstarts
-All Gaea Quickstar files to help you get started.
+All Gaea Quickstart files to help you get started.
