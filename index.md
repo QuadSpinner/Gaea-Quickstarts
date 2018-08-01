@@ -1,24 +1,17 @@
-## Welcome to our Open Source projects!
+![](icon.png)
 
-QuadSpinner is dedicated to involving the community in all our projects, and our GitHub repositories contain several useful projects where you can contribute to the future of Gaea.
-
-
-# Projects
-
-## Gaea
-All open source projects related to the [Gaea terrain creation software](http://quadspinner.com/gaea/).
-
-### [Documentation](https://github.com/QuadSpinner/Gaea-Docs/)
-The primary documentation for Gaea.
-
-### [Quickstarts](https://github.com/QuadSpinner/Gaea-Quickstarts/)
-All quickstart scenes included with Gaea.
-
-### [Script Samples](https://github.com/QuadSpinner/Gaea-Scripts/)
-Example scripts to help learn the Gaea automation tools.
+# Gaea Quickstarts
+This repository contains all Gaea Quickstart files to help you get started.
 
 
-# How to contribute
-- If you have comments, suggestions, or found a bug, open an issue in the related repo.
-- If you want to make a larger contribution, such as a change or addition, fork the repo in question and create a pull request.
-- Please check individual repositories for additional notes on how to contribute.
+## How to use
+By default, all the examples are already included in the latest Gaea release, but the latest (and work-in-progress) versions will be available.
+
+Each example file has an article associated with. You can use the index to navigate through them. Each article explains the specific nuances of the example and has screenshots of both the graph and the result.
+
+## Reporting an issue
+If you see a mistake or have a suggestion, [just open an issue](https://github.com/QuadSpinner/Gaea-Quickstarts/issues).
+
+
+## Contributing
+If you would like to contribute example files or quickstarts of your own, feel free to clone this repository, and create a pull request if you are familiar with GitHub. If you are not, [open an issue](https://github.com/QuadSpinner/Gaea-Quickstarts/issues) and we will get in touch.
