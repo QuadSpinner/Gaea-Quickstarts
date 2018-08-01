@@ -18,3 +18,7 @@ h1,h2,h3,h4{
 a:hover, a:focus{
     font-weight: initial !important;
 }
+
+.toc{
+    overflow-y: scroll;
+}
