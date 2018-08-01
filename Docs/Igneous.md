@@ -1,2 +1,2 @@
-[](../Images/Viewport/Igneous.png)
-[](../Images/Graph/Igneous.png)
+![](../Images/Viewport/Igneous.png)
+![](../Images/Graph/Igneous.png)

@@ -1,2 +1,2 @@
-[](../Images/Viewport/Sloping-Sandstone.png)
-[](../Images/Graph/Sloping-Sandstone.png)
+![](../Images/Viewport/Sloping-Sandstone.png)
+![](../Images/Graph/Sloping-Sandstone.png)

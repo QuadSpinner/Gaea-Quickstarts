@@ -1,2 +1,2 @@
-[](../Images/Viewport/RoughSlants.png)
-[](../Images/Graph/RoughSlants.png)
+![](../Images/Viewport/RoughSlants.png)
+![](../Images/Graph/RoughSlants.png)
