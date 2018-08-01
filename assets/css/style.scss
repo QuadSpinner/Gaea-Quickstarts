@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+*{
+font-family: "Lato" !important;
+font-weight: 400;
+}
+
+h1,h2,h3,h4{
+    font-weight: 700 !important;
+}
+
+a:hover, a:focus{
+    font-weight: initial !important;
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="{{site.lang | default: "en-US"}}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title | default: site.github.repository_name }}</title>
+  {% seo %}
+  <link rel="stylesheet" href="{{"/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+         -->
+      {% if site.logo %}
+      <img src="{{site.logo | relative_url}}" alt="Logo" /> {% endif %}
+
+      <p>{{site.description | default: site.github.project_tagline}}</p>
+
+      <ul>
+        <li>[Alien World](/Docs/Alien-World.md)</li>
+        <li>[Butte](/Docs/Butte.md)</li>
+        <li>[Desert Mountain](Docs/Desert-Mountain.md)</li>
+        <li>[Distorted Ridge](Docs/Distorted-Ridge.md)</li>
+        <li>[Double Plates](Docs/Double-Plates.md)</li>
+        <li>[Gradient Slope](Docs/Gradient-Slope.md)</li>
+        <li>[Hero Mountain](Docs/Hero-Mountain.md)</li>
+        <li>[Hero Slope](Docs/Hero-Slope.md)</li>
+        <li>[Hill Slope](Docs/Hill-Slope.md)</li>
+        <li>[Igneous](Docs/Igneous.md)</li>
+        <li>[Large Desert](Docs/Large-Desert.md)</li>
+        <li>[Mountain Slope](Docs/Mountain-Slope.md)</li>
+        <li>[Ocean Cliffs](Docs/Ocean-Cliffs.md)</li>
+        <li>[Pleasant Hill](Docs/Pleasant-Hill.md)</li>
+        <li>[Ridge](Docs/Ridge.md)</li>
+        <li>[Rough Slants](Docs/Rough-Slants.md)</li>
+        <li>[SatMaps 001](Docs/SatMaps-001.md)</li>
+        <li>[Sharp Mountain](Docs/Sharp-Mountain.md)</li>
+        <li>[Simple Mountain](Docs/Simple-Mountain.md)</li>
+        <li>[Sloping Sandstone](Docs/Sloping-Sandstone.md)</li>
+        <li>[Swirly Lines](Docs/Swirly-Lines.md)</li>
+        <li>[Technique Manual Modulation](Docs/Technique-Manual-Modulation.md)</li>
+        <li>[Technique Origami Repulse](Docs/Technique-Origami-Repulse.md)</li>
+        <li>[Technique Sand Deposits](Docs/Technique-Sand-Deposits.md)</li>
+        <li>[Technique Simple Biome](Docs/Technique-Simple-Biome.md)</li>
+        <li>[Technique Slanted Rocks_Graph](Docs/Technique-Slanted-Rocks_Graph.md)</li>
+        <li>[Technique Threshold](Docs/Technique-Threshold.md)</li>
+        <li>[Thousand Mesas](Docs/Thousand-Mesas.md)</li>
+        <li>[Uluru Style Rock](Docs/Uluru-Style-Rock.md)</li>
+        <li>[Volcano](Docs/Volcano.md)</li>
+        </ul>
+
+      {% if site.github.is_user_page %}
+      <p class="view">
+        <a href="{{site.github.owner_url}}">GitHub Profile</a>
+      </p>
+      {% endif %} {% if site.show_downloads %}
+      <ul class="downloads">
+        <li>
+          <a href="{{site.github.zip_url}}">Download
+            <strong>ZIP File</strong>
+          </a>
+        </li>
+        <li>
+          <a href="{{site.github.tar_url}}">Download
+            <strong>TAR Ball</strong>
+          </a>
+        </li>
+        <li>
+          <a href="{{site.github.repository_url}}">View On
+            <strong>GitHub</strong>
+          </a>
+        </li>
+      </ul>
+      {% endif %}
+    </header>
+    <section>
+
+      {{ content }}
+
+    </section>
+    <footer>
+      {% if site.github.is_project_page %}
+      <p>This project is maintained by
+        <a href="{{site.github.owner_url}}">{{ site.github.owner_name }}</a>
+      </p>
+      {% endif %}
+      <p>
+        <small>Hosted on GitHub Pages &mdash; Theme by
+          <a href="https://github.com/orderedlist">orderedlist</a>
+        </small>
+      </p>
+    </footer>
+  </div>
+  <script src="{{"/assets/js/scale.fix.js" | relative_url}}"></script>
+</body>
+
+</html>
