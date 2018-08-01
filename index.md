@@ -1,3 +1,5 @@
+![Gaea Quickstarts](icon.png)
+
 # Gaea Quickstarts
 This repository contains all Gaea Quickstart files to help you get started.
 
