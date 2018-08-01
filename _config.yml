@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-title: QuadSpinner
+title: Gaea Quickstarts
 logo: /assets/img/q.png
-description: The central entrypoint for all QuadSpinner Open Source Projects.
+description: QuadSpinner Gaea Quickstart examples
 show_downloads: false
 google_analytics:
-=======
->>>>>>> 7c9cfe183703bc44ce1092678bffd6c3516a3e87
-theme: jekyll-theme-minimal
