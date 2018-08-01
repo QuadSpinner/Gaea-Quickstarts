@@ -1,2 +1,2 @@
-![](../Images/Viewport/Technique-Origami-Repulse.png)
+![](../Images/Viewport/Technique-Origami-Repulse.jpg)
 ![](../Images/Graph/Technique-Origami-Repulse.png)

@@ -1,2 +1,2 @@
-![](../Images/Viewport/Alien-World.png)
+![](../Images/Viewport/Alien-World.jpg)
 ![](../Images/Graph/Alien-World.png)

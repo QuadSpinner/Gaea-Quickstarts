@@ -1,2 +1,2 @@
-![](../Images/Viewport/Technique-Threshold.png)
+![](../Images/Viewport/Technique-Threshold.jpg)
 ![](../Images/Graph/Technique-Threshold.png)

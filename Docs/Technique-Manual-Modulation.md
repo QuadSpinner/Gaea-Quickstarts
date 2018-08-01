@@ -1,2 +1,2 @@
-![](../Images/Viewport/Technique-Manual-Modulation.png)
+![](../Images/Viewport/Technique-Manual-Modulation.jpg)
 ![](../Images/Graph/Technique-Manual-Modulation.png)

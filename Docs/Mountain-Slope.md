@@ -1,2 +1,2 @@
-![](../Images/Viewport/Mountain-Slope.png)
+![](../Images/Viewport/Mountain-Slope.jpg)
 ![](../Images/Graph/Mountain-Slope.png)

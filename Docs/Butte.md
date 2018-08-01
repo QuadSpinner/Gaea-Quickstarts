@@ -1,2 +1,2 @@
-![](../Images/Viewport/Butte.png)
+![](../Images/Viewport/Butte.jpg)
 ![](../Images/Graph/Butte.png)

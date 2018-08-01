@@ -1,2 +1,2 @@
-![](../Images/Viewport/Distorted-Ridge.png)
+![](../Images/Viewport/Distorted-Ridge.jpg)
 ![](../Images/Graph/Distorted-Ridge.png)

@@ -1,2 +1,2 @@
-![](../Images/Viewport/Double-Plates.png)
+![](../Images/Viewport/Double-Plates.jpg)
 ![](../Images/Graph/Double-Plates.png)

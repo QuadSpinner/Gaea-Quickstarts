@@ -1,2 +1,2 @@
-![](../Images/Viewport/Uluru-Style-Rocks.png)
+![](../Images/Viewport/Uluru-Style-Rocks.jpg)
 ![](../Images/Graph/Uluru-Style-Rocks.png)

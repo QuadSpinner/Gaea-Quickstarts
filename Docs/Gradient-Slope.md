@@ -1,2 +1,2 @@
-![](../Images/Viewport/Gradient-Slope.png)
+![](../Images/Viewport/Gradient-Slope.jpg)
 ![](../Images/Graph/Gradient-Slope.png)
