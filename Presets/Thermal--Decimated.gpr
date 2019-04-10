@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Thermal" Name="Decimated" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Thermal Erosion" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PDouble" Name="Duration" Owner="00000000-0000-0000-0000-000000000000" Value="0.15" />
+    <Parameter xsi:type="PDouble" Name="Strength" Owner="00000000-0000-0000-0000-000000000000" Value="0.049981116966241856" />
+    <Parameter xsi:type="PDouble" Name="Anisotropy" Owner="00000000-0000-0000-0000-000000000000" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Talus Angle" Owner="00000000-0000-0000-0000-000000000000" Value="53.862849021944967" />
+    <Parameter xsi:type="PDouble" Name="Talus Settling" Owner="00000000-0000-0000-0000-000000000000" Value="0.15" />
+    <Parameter xsi:type="PBoolean" Name="Fine Detail" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Debris Size" Owner="00000000-0000-0000-0000-000000000000" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PBoolean" Name="Real Scale" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Owner="00000000-0000-0000-0000-000000000000" Value="1149" />
+    <Parameter xsi:type="PInt" Name="Feature Scale" Owner="00000000-0000-0000-0000-000000000000" Value="163" />
+    <Parameter xsi:type="PInt" Name="Verticality" Owner="00000000-0000-0000-0000-000000000000" Value="3200" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
