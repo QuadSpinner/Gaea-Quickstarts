@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Combine" Name="100 Max" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PChoice" Name="Method" Owner="00000000-0000-0000-0000-000000000000" Value="6" />
+    <Parameter xsi:type="PDouble" Name="Ratio" Owner="00000000-0000-0000-0000-000000000000" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Swap Inputs" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Separation Mask" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
