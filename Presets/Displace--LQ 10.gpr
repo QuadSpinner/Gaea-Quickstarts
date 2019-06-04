@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Displace" Name="LQ 10" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Displacement" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PChoice" Name="Method" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Uniform" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Strength" Owner="00000000-0000-0000-0000-000000000000" Value="0.1" />
+    <Parameter xsi:type="PDouble" Name="Strength Vertical" Owner="00000000-0000-0000-0000-000000000000" Value="0.1" />
+    <Parameter xsi:type="PTitle" Name="Noise" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PDouble" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" Value="0.4" />
+    <Parameter xsi:type="PInt" Name="Complexity" Owner="00000000-0000-0000-0000-000000000000" Value="12" />
+    <Parameter xsi:type="PInt" Name="Iterations" Owner="00000000-0000-0000-0000-000000000000" Value="10" />
+    <Parameter xsi:type="PBoolean" Name="High Quality" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PInt" Name="Seed" Owner="00000000-0000-0000-0000-000000000000" Value="3655" />
+    <Parameter xsi:type="PTitle" Name="Location" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PDouble" Name="X" Owner="00000000-0000-0000-0000-000000000000" Value="0.5" />
+    <Parameter xsi:type="PDouble" Name="Y" Owner="00000000-0000-0000-0000-000000000000" Value="0.5" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

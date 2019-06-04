@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Voronoi" Name="EcoBump (GeoGlyph Style)" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Voronoi" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PDouble" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" Value="0.30518518518518989" />
+    <Parameter xsi:type="PInt" Name="Seed" Owner="00000000-0000-0000-0000-000000000000" Value="3352" />
+    <Parameter xsi:type="PBoolean" Name="Dual" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Perturb settings" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PChoice" Name="Perturb" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Warp Frequency" Owner="00000000-0000-0000-0000-000000000000" Value="0.1" />
+    <Parameter xsi:type="PDouble" Name="Warp Amplitude" Owner="00000000-0000-0000-0000-000000000000" Value="0.3" />
+    <Parameter xsi:type="PInt" Name="Warp Octaves" Owner="00000000-0000-0000-0000-000000000000" Value="12" />
+    <Parameter xsi:type="PTitle" Name="Advanced settings" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PDouble" Name="Scale X" Owner="00000000-0000-0000-0000-000000000000" Value="100" />
+    <Parameter xsi:type="PDouble" Name="Scale Y" Owner="00000000-0000-0000-0000-000000000000" Value="100" />
+    <Parameter xsi:type="PChoice" Name="Function" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
+    <Parameter xsi:type="PChoice" Name="Form" Owner="00000000-0000-0000-0000-000000000000" Value="4" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
