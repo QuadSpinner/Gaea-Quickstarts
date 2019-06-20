@@ -1,0 +1,1 @@
+Combine variant terrains using Bomber to create your own custom "noise".
