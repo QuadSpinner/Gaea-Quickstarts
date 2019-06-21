@@ -1,1 +1,1 @@
-Crater (Complex)
+A sophisticated crater scene inspired by Meteor Crater, Arizona. It includes an impact crater, post-impact erosion, and a detailed color production graph that includes desert vegetation on the base texture map.

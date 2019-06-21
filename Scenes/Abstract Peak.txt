@@ -1,1 +1,1 @@
-Abstract Peak
+A simple way to create an abstract mountain peak.

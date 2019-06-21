@@ -1,1 +1,3 @@
-Desert Hill
+A small desert hill with heavy sand accumulation.
+
+Includes texture production that shows to texture protruding rocks separately from sediments without any source masks.

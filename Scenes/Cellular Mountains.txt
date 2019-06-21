@@ -1,1 +1,1 @@
-Cullular Mountains
+A simple yet powerful way of creating multi-crater systems using Whorl.
