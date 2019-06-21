@@ -1,1 +1,3 @@
-Rugged Plates (A)
+A dark and treacherous terrain inspired by the dark lands of Mordor from Lord of the Rings. This erosion-free terrain uses other nodes to create a realistic look.
+
+It is a good example of how you can get great terrains without using the Erosion node.
