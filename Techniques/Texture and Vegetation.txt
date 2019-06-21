@@ -1,1 +1,1 @@
-Use the Texture and Vegetation nodes to create a sophisticated texture map for your terrain.
+Use the Texture and Vegetation nodes to produce a sophisticated texture map for your terrain.
