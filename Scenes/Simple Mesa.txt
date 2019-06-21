@@ -1,1 +1,1 @@
-Simple Mesa
+The easiest way to create an iconic desert mesa structure.

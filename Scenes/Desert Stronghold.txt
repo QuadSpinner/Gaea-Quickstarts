@@ -1,3 +1,1 @@
-A lone mountain with strong terracing, hard erosion, and sandstone-like qualities.
-
-Includes texture production.
+A lone mountain with strong terracing, hard erosion, and sandstone-like qualities, and then texture it with SatMaps.

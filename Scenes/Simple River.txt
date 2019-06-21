@@ -1,1 +1,1 @@
-Simple River
+Create a simple river with a surrounding steep valley, along with mask separation for the river.

@@ -1,1 +1,1 @@
-Simple Volcano
+Learn how to create a cone volcano from scratch.

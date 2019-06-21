@@ -1,1 +1,1 @@
-Terrain Folding
+Learn how to create folded terrains, where tectonic and other forces push different strata into each other to create beautiful, fractured landscapes.
