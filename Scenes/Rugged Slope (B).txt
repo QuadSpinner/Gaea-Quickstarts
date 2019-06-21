@@ -1,1 +1,1 @@
-Rugged Slope (B)
+This desert slope is similar to Rugged Slope (A) but instead of lots of small details, it uses slanted stratas creating by the Fold node.
