@@ -1,1 +1,1 @@
-Voronoi Mountain Pass
+Create a mountain pass environment with Voronoi cells.

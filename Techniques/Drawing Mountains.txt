@@ -1,1 +1,1 @@
-Drawing Mountains
+Learn how to use the Draw node to create a custom mountain range, and make it into a production ready asset.

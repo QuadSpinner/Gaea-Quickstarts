@@ -1,1 +1,1 @@
-Mountain Range
+Learn how to create a hyper-realistic mountain range using the new Range node and high duration Erosion.

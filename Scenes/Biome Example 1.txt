@@ -1,1 +1,1 @@
-Biome Example (I)
+Use the Biome node to quickly create a texture map base / Super Splat for your terrain.

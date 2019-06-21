@@ -1,1 +1,1 @@
-Jagged Hill
+Learn how to create jagged patterns on a hill.

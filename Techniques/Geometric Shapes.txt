@@ -1,1 +1,1 @@
-Geometric Shapes
+Learn how to create geometric shapes for terrains. These can be very useful for surreal or alien worlds.

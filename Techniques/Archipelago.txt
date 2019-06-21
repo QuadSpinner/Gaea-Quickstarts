@@ -1,1 +1,1 @@
-Archipelago
+Use the Islands node to draw an archipelago.
