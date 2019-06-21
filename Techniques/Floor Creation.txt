@@ -1,1 +1,1 @@
-When working with hero elements, you may often need a generic "floor" terrain to avoid having a flat area around your terrain. This technique shows you how to create one quickly.
+When working with hero elements, you may often need a generic "floor" terrain to avoid having a flat area around the base of your terrain. This technique shows you how to create one quickly.
