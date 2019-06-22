@@ -1,1 +1,1 @@
-Sloped Mountain Edge
+Create a section of a mountain with more area for the ground than the side of the mountain. This can be very useful for a large background asset where the entire mountain does not need to be visible.
