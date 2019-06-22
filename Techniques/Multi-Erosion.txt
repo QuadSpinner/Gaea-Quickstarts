@@ -1,1 +1,1 @@
-A simple technique for eroding a terrain with multiple erosion nodes with specific settings, as opposed to strongly eroding a terrain with a single node.
+This simple technique shows how to erode a terrain using multiple erosion nodes with specific settings vs. strongly eroding a terrain with a single node.

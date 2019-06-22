@@ -1,1 +1,1 @@
-A technique for creating a lake high up in an existing terrain, and then masking it for texturing.
+Here's a technique to create a lake high up on an existing terrain, and then mask it for texturing.

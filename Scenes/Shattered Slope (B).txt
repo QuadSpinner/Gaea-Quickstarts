@@ -1,1 +1,1 @@
-A sloping, all-purpose rugged environment. It can easily be changed to match multiple biomes with a few simple changes to the nodes and color maps.
+An all-purpose sloping, rugged environment. It can easily be modified to match multiple biomes with a few simple changes to the nodes and color maps.

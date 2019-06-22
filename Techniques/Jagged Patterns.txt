@@ -1,1 +1,1 @@
-Powerful jagged patterns that can be overlaid on other terrains such as glaciers, lava formations, etc.
+Strong jagged patterns can be overlaid on other terrains, such as glaciers, lava formations, etc.
