@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Vegetation" Name="Desert Canyon" Description="">
   <Paramaters>
-    <Parameter xsi:type="PTitle" Name="Vegetation" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PTitle" Name="Vegetation" />
     <Parameter xsi:type="PColor" Name="Color" Owner="00000000-0000-0000-0000-000000000000">
       <Underlying R="0.028426039963960648" G="0.078187428414821625" B="0.078187428414821625" A="1" />
     </Parameter>
-    <Parameter xsi:type="PBoolean" Name="Use Map" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
-    <Parameter xsi:type="PDouble" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" Value="0.33" />
-    <Parameter xsi:type="PDouble" Name="Occurance" Owner="00000000-0000-0000-0000-000000000000" Value="0.045745202556390974" />
-    <Parameter xsi:type="PDouble" Name="Density" Owner="00000000-0000-0000-0000-000000000000" Value="0.5" />
-    <Parameter xsi:type="PTitle" Name="Influences" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PDouble" Name="Chaos" Owner="00000000-0000-0000-0000-000000000000" Value="0.59984356321212884" />
-    <Parameter xsi:type="PDouble" Name="Slope Bottom" Owner="00000000-0000-0000-0000-000000000000" Value="0.026073071408850179" />
-    <Parameter xsi:type="PDouble" Name="Slope Top" Owner="00000000-0000-0000-0000-000000000000" Value="0.3145976615727849" />
-    <Parameter xsi:type="PInt" Name="Seed" Owner="00000000-0000-0000-0000-000000000000" Value="2956" />
+    <Parameter xsi:type="PBoolean" Name="Use Map" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Scale" Value="0.33" />
+    <Parameter xsi:type="PDouble" Name="Occurance" Value="0.045745202556390974" />
+    <Parameter xsi:type="PDouble" Name="Density" Value="0.5" />
+    <Parameter xsi:type="PTitle" Name="Influences" />
+    <Parameter xsi:type="PDouble" Name="Chaos" Value="0.59984356321212884" />
+    <Parameter xsi:type="PDouble" Name="Slope Bottom" Value="0.026073071408850179" />
+    <Parameter xsi:type="PDouble" Name="Slope Top" Value="0.3145976615727849" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="2956" />
   </Paramaters>
   <PresetType>User</PresetType>
 </Preset>

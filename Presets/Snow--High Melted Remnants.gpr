@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Snow" Name="High Melted Remnants" Description="">
   <Paramaters>
-    <Parameter xsi:type="PTitle" Name="Snowfall" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PDouble" Name="Duration" Owner="00000000-0000-0000-0000-000000000000" Value="0.25" />
-    <Parameter xsi:type="PDouble" Name="Intensity" Owner="00000000-0000-0000-0000-000000000000" Value="0.25" />
-    <Parameter xsi:type="PDouble" Name="Settle-Thaw" Owner="00000000-0000-0000-0000-000000000000" Value="0.25" />
-    <Parameter xsi:type="PDouble" Name="Melt" Owner="00000000-0000-0000-0000-000000000000" Value="0.30000000000000004" />
-    <Parameter xsi:type="PDouble" Name="Snow line" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
-    <Parameter xsi:type="PTitle" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PBoolean" Name="Real Scale" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
-    <Parameter xsi:type="PInt" Name="Terrain Scale" Owner="00000000-0000-0000-0000-000000000000" Value="5000" />
-    <Parameter xsi:type="PInt" Name="Verticality" Owner="00000000-0000-0000-0000-000000000000" Value="3200" />
-    <Parameter xsi:type="PTitle" Name="Advanced" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PDouble" Name="Slip-off angle" Owner="00000000-0000-0000-0000-000000000000" Value="38" />
-    <Parameter xsi:type="PDouble" Name="Adhered snow mass" Owner="00000000-0000-0000-0000-000000000000" Value="12" />
-    <Parameter xsi:type="PDouble" Name="Model scale" Owner="00000000-0000-0000-0000-000000000000" Value="5" />
-    <Parameter xsi:type="PChoice" Name="Snow output" Owner="00000000-0000-0000-0000-000000000000" Value="1" />
-    <Parameter xsi:type="PBoolean" Name="Use Snowfall mask" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
-    <Parameter xsi:type="PBoolean" Name="Use Melt mask" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Snowfall" />
+    <Parameter xsi:type="PDouble" Name="Duration" Value="0.25" />
+    <Parameter xsi:type="PDouble" Name="Intensity" Value="0.25" />
+    <Parameter xsi:type="PDouble" Name="Settle-Thaw" Value="0.25" />
+    <Parameter xsi:type="PDouble" Name="Melt" Value="0.30000000000000004" />
+    <Parameter xsi:type="PDouble" Name="Snow line" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PBoolean" Name="Real Scale" Value="true" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Value="5000" />
+    <Parameter xsi:type="PInt" Name="Verticality" Value="3200" />
+    <Parameter xsi:type="PTitle" Name="Advanced" />
+    <Parameter xsi:type="PDouble" Name="Slip-off angle" Value="38" />
+    <Parameter xsi:type="PDouble" Name="Adhered snow mass" Value="12" />
+    <Parameter xsi:type="PDouble" Name="Model scale" Value="5" />
+    <Parameter xsi:type="PChoice" Name="Snow output" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Use Snowfall mask" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Use Melt mask" Value="false" />
   </Paramaters>
   <PresetType>User</PresetType>
 </Preset>

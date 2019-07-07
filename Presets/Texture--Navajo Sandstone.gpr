@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Texture" Name="Navajo Sandstone" Description="Use with SatMap Sandy 108">
   <Paramaters>
-    <Parameter xsi:type="PTitle" Name="Construction" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PDouble" Name="Scale" Owner="00000000-0000-0000-0000-000000000000" Value="0.15" />
-    <Parameter xsi:type="PChoice" Name="Mode" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
-    <Parameter xsi:type="PDouble" Name="Patches" Owner="00000000-0000-0000-0000-000000000000" Value="0.8" />
-    <Parameter xsi:type="PInt" Name="Seed" Owner="00000000-0000-0000-0000-000000000000" Value="2050" />
-    <Parameter xsi:type="PTitle" Name="Influences" Owner="00000000-0000-0000-0000-000000000000" />
-    <Parameter xsi:type="PDouble" Name="Slope" Owner="00000000-0000-0000-0000-000000000000" Value="0.6" />
-    <Parameter xsi:type="PDouble" Name="Soil" Owner="00000000-0000-0000-0000-000000000000" Value="0.6" />
-    <Parameter xsi:type="PDouble" Name="Chaos" Owner="00000000-0000-0000-0000-000000000000" Value="0.85" />
-    <Parameter xsi:type="PBoolean" Name="Graded" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PTitle" Name="Construction" />
+    <Parameter xsi:type="PDouble" Name="Scale" Value="0.15" />
+    <Parameter xsi:type="PChoice" Name="Mode" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Patches" Value="0.8" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="2050" />
+    <Parameter xsi:type="PTitle" Name="Influences" />
+    <Parameter xsi:type="PDouble" Name="Slope" Value="0.6" />
+    <Parameter xsi:type="PDouble" Name="Soil" Value="0.6" />
+    <Parameter xsi:type="PDouble" Name="Chaos" Value="0.85" />
+    <Parameter xsi:type="PBoolean" Name="Graded" Value="true" />
   </Paramaters>
   <PresetType>User</PresetType>
 </Preset>
