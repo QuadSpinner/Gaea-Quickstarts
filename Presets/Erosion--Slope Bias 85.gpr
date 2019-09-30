@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Erosion" Name="Slope Bias 85" Description="Dax's favorite!">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Erosion" />
+    <Parameter xsi:type="PDouble" Name="Duration" Value="0.12" />
+    <Parameter xsi:type="PDouble" Name="Rock Softness" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Strength" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Downcutting" />
+    <Parameter xsi:type="PDouble" Name="Downcutting" Value="0.1" />
+    <Parameter xsi:type="PDouble" Name="Inhibition" Value="0.5" />
+    <Parameter xsi:type="PDouble" Name="Base Level" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PBoolean" Name="Real Scale" Value="true" />
+    <Parameter xsi:type="PInt" Name="Feature Scale" Value="2000" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Value="10000" />
+    <Parameter xsi:type="PInt" Name="Verticality" Value="2000" />
+    <Parameter xsi:type="PTitle" Name="Flow" />
+    <Parameter xsi:type="PDouble" Name="Volume" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Debris" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Rivers" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Depth" Value="0.035" />
+    <Parameter xsi:type="PTitle" Name="Selective Processing" />
+    <Parameter xsi:type="PChoice" Name="Mask" Value="2" />
+    <Parameter xsi:type="PChoice" Name="Bias Type" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Bias" Value="0.85" />
+    <Parameter xsi:type="PTitle" Name="Other Settings" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="1652" />
+    <Parameter xsi:type="PChoice" Name="Process Mode" Value="0" />
+    <Parameter xsi:type="PChoice" Name="Parallel Speed" Value="3" />
+    <Parameter xsi:type="PBoolean" Name="Aggressive Mode" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Disable Parallel Processing" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

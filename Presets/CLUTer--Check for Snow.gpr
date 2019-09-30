@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="CLUTer" Name="Check for Snow" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Pre-Process" />
+    <Parameter xsi:type="PDouble" Name="Input Noise" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Input Clarity" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Input Auto Level" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Post-Process" />
+    <Parameter xsi:type="PDouble" Name="Color Noise" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Output Clarity" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Output Auto Level" Value="false" />
+    <Parameter xsi:type="PString" Name="Data" Value="FF6F6E6E|0|FFFFFFFF|1|" />
+    <Parameter xsi:type="PString" Name="Magick" Value="Qk2OBAAAAAAAADYAAAAoAAAAcgEAAAEAAAABABgAAAAAAFgEAAB0EgAAdBIAAAAAAAAAAAAAcHBxcHBxcXFycXFycnJzcnJzcnJzc3N0c3N0dHR1dHR1dHR1dXV2dXV2dnZ2dnZ3dnZ3d3d4d3d4eHh4eHh5eHh5eXl6eXl6enp6enp7enp7e3t8e3t8e3t8fHx9fHx9fX1+fX1+fX1+fn5/fn5/fn5/f3+Af3+Af3+AgICBgICBgYGBgYGCgYGCgoKDgoKDg4ODg4OEg4OEhISFhISFhYWFhYWGhYWGhoaHhoaHh4eHh4eIh4eIiIiJiIiJiYmJiYmKiYmKioqLioqLioqLi4uMi4uMjIyNjIyNjIyNjY2OjY2OjY2Ojo6Pjo6Pj4+Pj4+Qj4+QkJCRkJCRkZGRkZGSkZGSkpKSkpKTk5OTk5OUk5OUlJSUlJSVlZWVlZWWlZWWlpaWlpaXl5eXl5eYl5eYmJiYmJiZmJiZmZmZmZmampqampqbmpqbm5ubm5ucm5ucnJydnJydnJydnZ2enZ2enp6enp6fnp6fn5+gn5+goKCgoKChoKChoaGhoaGioqKioqKjoqKjo6Ojo6OkpKSkpKSlpKSlpaWlpaWmpqampqampqanp6enp6eop6eoqKioqKipqampqamqqamqqqqqqqqrqqqrq6usq6usrKysrKytrKytra2ura2urq6urq6vrq6vr6+vr6+wsLCwsLCwsLCxsbGxsbGxsrKysrKysrKzs7Ozs7OztLS0tLS0tLS1tbW1tbW1tbW2tra2tra3t7e3t7e3t7e4uLi4uLi5uLi5ubm5ubm6ubm6urq7urq7u7u7u7u8u7u8vLy9vLy9vb29vb2+vb2+vr6+vr6/v7+/v7+/v7/AwMDAwMDBwcHBwcHBwcHCwsLCwsLCw8PDw8PDw8PExMTExMTExMTFxcXFxcXGxsbGxsbGxsbHx8fHx8fIx8fIyMjIyMjJycnJycnJycnKysrKysrLy8vLy8vLy8vMzMzMzMzNzc3Nzc3Nzc3Ozs7Ozs7Oz8/Pz8/Pz8/Q0NDQ0NDQ0dHR0dHR0dHR0tLS0tLS0tLT09PT09PT1NTU1NTU1NTV1dXV1dXV1dXW1tbW1tbW1tbX19fX19fY2NjY2NjY2NjZ2dnZ2dna2tra2tra2trb29vb29vc3Nzc3Nzc3Nzd3d3d3d3e3t7e3t7e3t7f39/f39/f4ODg4ODg4ODg4eHh4eHh4eHh4uLi4uLi4+Pj4+Pj4+Pj5OTk5OTk5OTl5eXl5eXl5ubm5ubm5ubn5+fn5+fn6Ojo6Ojo6Ojp6enp6enp6urq6urq6urr6+vr6+vr7Ozs7Ozs7Ozt7e3t7e3t7u7u7u7u7u7u7+/v7+/v7+/v8PDw8PDw8fHx8fHx8fHx8vLy8vLy8vLy8/Pz8/Pz8/P09PT09PT09fX19fX19fX29vb29vb29/f39/f39/f4+Pj4+Pj4+fn5+fn5+fn5+vr6+vr6+/v7+/v7+/v7/Pz8/Pz8/f39/f39/f39/v7+/v7+/v7+////AAA=" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

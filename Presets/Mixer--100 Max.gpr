@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Mixer" Name="100 Max" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PChoice" Name="Method" Value="6" />
+    <Parameter xsi:type="PDouble" Name="Ratio" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Swap Inputs" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
