@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="CES" Name="Heavy Snowfall" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Snowfall" />
+    <Parameter xsi:type="PInt" Name="Size" Value="120" />
+    <Parameter xsi:type="PDouble" Name="Duration" Value="0.59227467811158852" />
+    <Parameter xsi:type="PDouble" Name="Intensity" Value="0.38626609442060089" />
+    <Parameter xsi:type="PDouble" Name="Settle-Thaw" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Melt" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Snow line" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PBoolean" Name="Real Scale" Value="true" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Value="5000" />
+    <Parameter xsi:type="PInt" Name="Verticality" Value="3200" />
+    <Parameter xsi:type="PTitle" Name="Advanced" />
+    <Parameter xsi:type="PDouble" Name="Slip-off angle" Value="38" />
+    <Parameter xsi:type="PDouble" Name="Adhered snow mass" Value="12" />
+    <Parameter xsi:type="PDouble" Name="Model scale" Value="5" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

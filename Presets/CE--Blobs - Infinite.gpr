@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="CE" Name="Blobs - Infinite" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Erosion" />
+    <Parameter xsi:type="PInt" Name="Size" Value="50" />
+    <Parameter xsi:type="PDouble" Name="Duration" Value="0.04" />
+    <Parameter xsi:type="PDouble" Name="Rock Softness" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Strength" Value="0.45" />
+    <Parameter xsi:type="PTitle" Name="Downcutting" />
+    <Parameter xsi:type="PDouble" Name="Downcutting" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Inhibition" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Base Level" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PInt" Name="Feature Scale" Value="100" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Value="5000" />
+    <Parameter xsi:type="PInt" Name="Verticality" Value="5" />
+    <Parameter xsi:type="PTitle" Name="Flow" />
+    <Parameter xsi:type="PDouble" Name="Volume" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Debris" Value="0" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
