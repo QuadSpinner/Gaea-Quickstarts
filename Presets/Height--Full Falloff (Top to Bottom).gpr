@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Height" Name="Full Falloff (Top to Bottom)" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PDouble" Name="Min" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Max" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Falloff" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Normalized" Value="true" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

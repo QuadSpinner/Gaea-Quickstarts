@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Lighting" Name="Unk" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PDouble" Name="Sun azimuth" Value="30.848474502563477" />
+    <Parameter xsi:type="PDouble" Name="Sun elevation" Value="46.303169250488281" />
+    <Parameter xsi:type="PTitle" Name="Advanced" />
+    <Parameter xsi:type="PDouble" Name="Air density" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Haze" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Ozone layer thickness" Value="0.045267489711934061" />
+    <Parameter xsi:type="PBoolean" Name="Auto Exposure" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Exposure" Value="1.8353909465020575" />
+    <Parameter xsi:type="PDouble" Name="Sun intensity" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Ambient intensity" Value="0.72839506172839508" />
+    <Parameter xsi:type="PBoolean" Name="Shadows" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Ambient light" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Ambient occlusion" Value="true" />
+    <Parameter xsi:type="PTitle" Name="Terrain Colors" />
+    <Parameter xsi:type="PInt" Name="Index" Value="0" />
+    <Parameter xsi:type="PInt" Name="IndexMask" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Auto Level" Value="true" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

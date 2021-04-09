@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="FractalWarp" Name="Mask Warp Small" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Noise" />
+    <Parameter xsi:type="PDouble" Name="Size" Value="0.089733840304183021" />
+    <Parameter xsi:type="PDouble" Name="Strength" Value="0.81216730038021567" />
+    <Parameter xsi:type="PDouble" Name="Z-scale" Value="0" />
+    <Parameter xsi:type="PInt" Name="Complexity" Value="12" />
+    <Parameter xsi:type="PDouble" Name="Roughness" Value="0.47262357414448691" />
+    <Parameter xsi:type="PBoolean" Name="Normalized" Value="true" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="3754" />
+    <Parameter xsi:type="PTitle" Name="Iterative" />
+    <Parameter xsi:type="PInt" Name="Iterations" Value="4" />
+    <Parameter xsi:type="PChoice" Name="Mode" Value="0" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="SlopeNoise" Name="Slanted Rough Slope" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PDouble" Name="Scale" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Displacement" Value="0.15" />
+    <Parameter xsi:type="PInt" Name="Direction" Value="65" />
+    <Parameter xsi:type="PBoolean" Name="Stratified" Value="true" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="4462" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

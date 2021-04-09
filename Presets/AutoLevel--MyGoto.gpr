@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="AutoLevel" Name="MyGoto" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Autolevel" />
+    <Parameter xsi:type="PBoolean" Name="Apply Autolevel" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Strength" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Logarithmic" />
+    <Parameter xsi:type="PBoolean" Name="Apply Log" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Inverse" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Log" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Equalize" />
+    <Parameter xsi:type="PBoolean" Name="Apply Equalize" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Equalize" Value="1" />
+    <Parameter xsi:type="PTitle" Name="Gamma" />
+    <Parameter xsi:type="PBoolean" Name="Apply Gamma" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Auto-Gamma" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Gamma" Value="1" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

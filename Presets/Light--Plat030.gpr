@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Light" Name="Plat030" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Direct light" />
+    <Parameter xsi:type="PBoolean" Name="Direct light" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Sun azimuth" Value="25.11483488614499" />
+    <Parameter xsi:type="PDouble" Name="Sun elevation" Value="37.200000000000081" />
+    <Parameter xsi:type="PBoolean" Name="Shadows" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Sun angular diameter" Value="0.5" />
+    <Parameter xsi:type="PTitle" Name="Ambient light" />
+    <Parameter xsi:type="PBoolean" Name="Ambient light" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Ambient occlusion" Value="true" />
+    <Parameter xsi:type="PTitle" Name="Colors" />
+    <Parameter xsi:type="PBoolean" Name="Automatic colors" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Sun intensity" Value="2" />
+    <Parameter xsi:type="PColor" Name="Sun color" Owner="00000000-0000-0000-0000-000000000000">
+      <Underlying R="1" G="0.60382735729217529" B="0.21223075687885284" A="1" />
+    </Parameter>
+    <Parameter xsi:type="PDouble" Name="Ambient intensity" Value="1.6562962962962973" />
+    <Parameter xsi:type="PColor" Name="Ambient color" Owner="00000000-0000-0000-0000-000000000000">
+      <Underlying R="0.21223075687885284" G="0.45641103386878967" B="1" A="1" />
+    </Parameter>
+    <Parameter xsi:type="PDouble" Name="Exposure" Value="0.69037037037037408" />
+    <Parameter xsi:type="PBoolean" Name="Soft clip" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

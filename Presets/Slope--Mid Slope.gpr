@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Slope" Name="Mid Slope" Description="Great for texturing!">
+  <Paramaters>
+    <Parameter xsi:type="PInt" Name="Min" Value="50" />
+    <Parameter xsi:type="PInt" Name="Max" Value="50" />
+    <Parameter xsi:type="PDouble" Name="Falloff" Value="0.6" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

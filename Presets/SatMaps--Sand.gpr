@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="SatMaps" Name="Sand" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="SatMaps" />
+    <Parameter xsi:type="PInt" Name="Index" Value="13" />
+    <Parameter xsi:type="PDouble" Name="Min" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Max" Value="0.10344827586208799" />
+    <Parameter xsi:type="PChoice" Name="Library" Value="1" />
+    <Parameter xsi:type="PTitle" Name="SatMap Editor" />
+    <Parameter xsi:type="PChoice" Name="Samples" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Pre/Post Processing" />
+    <Parameter xsi:type="PDouble" Name="Noise" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Jitter" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Input Clarity" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Input Auto Level" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Output Clarity" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Output Auto Level" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

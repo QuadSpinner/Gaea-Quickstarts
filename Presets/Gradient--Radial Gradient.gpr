@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Gradient" Name="Radial Gradient" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PChoice" Name="Type" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Scale" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Sawtooth" Value="true" />
+    <Parameter xsi:type="PInt" Name="Direction" Value="0" />
+    <Parameter xsi:type="PChoice" Name="Edge Behavior" Value="0" />
+    <Parameter xsi:type="PDouble" Name="X" Value="0.5" />
+    <Parameter xsi:type="PDouble" Name="Y" Value="0.5" />
+    <Parameter xsi:type="PInt" Name="Start" Value="0" />
+    <Parameter xsi:type="PInt" Name="End" Value="360" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

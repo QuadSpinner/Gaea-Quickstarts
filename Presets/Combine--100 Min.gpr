@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Combine" Name="100 Min" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PChoice" Name="Method" Value="7" />
+    <Parameter xsi:type="PDouble" Name="Ratio" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Swap Inputs" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Separation Mask" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Clamp Output" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Abs" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Threshold" Value="0.01" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

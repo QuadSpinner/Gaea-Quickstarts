@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="SatMaps" Name="Navajo Sandstone" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Pre/Post Processing" Owner="00000000-0000-0000-0000-000000000000" />
+    <Parameter xsi:type="PInt" Name="Index" Owner="00000000-0000-0000-0000-000000000000" Value="108" />
+    <Parameter xsi:type="PChoice" Name="Library" Owner="00000000-0000-0000-0000-000000000000" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Noise" Owner="00000000-0000-0000-0000-000000000000" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Jitter" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Input Clarity" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Input Auto Level" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Output Clarity" Owner="00000000-0000-0000-0000-000000000000" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Output Auto Level" Owner="00000000-0000-0000-0000-000000000000" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

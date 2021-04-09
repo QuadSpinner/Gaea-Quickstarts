@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Alluvium" Name="Linear Slope Lines" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Alluvium" />
+    <Parameter xsi:type="PInt" Name="Iterations" Value="10" />
+    <Parameter xsi:type="PDouble" Name="Hardness" Value="0.01" />
+    <Parameter xsi:type="PDouble" Name="Power" Value="0.5" />
+    <Parameter xsi:type="PTitle" Name="Deposits" />
+    <Parameter xsi:type="PDouble" Name="Sediments" Value="0.10143333333333365" />
+    <Parameter xsi:type="PInt" Name="Flow" Value="5" />
+    <Parameter xsi:type="PTitle" Name="Advanced" />
+    <Parameter xsi:type="PDouble" Name="Chaos" Value="0.1" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="440" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

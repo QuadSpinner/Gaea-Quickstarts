@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Canyonizer" Name="Cutouts" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Canyons" />
+    <Parameter xsi:type="PDouble" Name="Formation" Value="0.5" />
+    <Parameter xsi:type="PDouble" Name="Streamline" Value="0.800000011920929" />
+    <Parameter xsi:type="PInt" Name="Octaves" Value="10" />
+    <Parameter xsi:type="PDouble" Name="Maximum Depth" Value="0.074524714828897637" />
+    <Parameter xsi:type="PBoolean" Name="Narrow" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Generate Masks" Value="false" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="2501" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
