@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Light" Name="CoolTerrain1001" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Global" />
+    <Parameter xsi:type="PChoice" Name="Quality" Value="3" />
+    <Parameter xsi:type="PTitle" Name="Direct light" />
+    <Parameter xsi:type="PBoolean" Name="Direct light" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Sun azimuth" Value="48" />
+    <Parameter xsi:type="PDouble" Name="Sun elevation" Value="30" />
+    <Parameter xsi:type="PBoolean" Name="Shadows" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Sun angular diameter" Value="1.5" />
+    <Parameter xsi:type="PTitle" Name="Ambient light" />
+    <Parameter xsi:type="PBoolean" Name="Ambient light" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Ambient occlusion" Value="true" />
+    <Parameter xsi:type="PTitle" Name="Advanced" />
+    <Parameter xsi:type="PDouble" Name="Exposure" Value="1.31" />
+    <Parameter xsi:type="PDouble" Name="Sun intensity" Value="1.68" />
+    <Parameter xsi:type="PDouble" Name="Ambient intensity" Value="1.06" />
+    <Parameter xsi:type="PDouble" Name="Air density" Value="1.25" />
+    <Parameter xsi:type="PDouble" Name="Haze" Value="1.27" />
+    <Parameter xsi:type="PDouble" Name="Ozone layer thickness" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Automatic colors" Value="true" />
+    <Parameter xsi:type="PColor" Name="Sun color" Owner="00000000-0000-0000-0000-000000000000">
+      <Underlying R="1" G="0.791297972202301" B="0.21223075687885284" A="1" />
+    </Parameter>
+    <Parameter xsi:type="PColor" Name="Ambient color" Owner="00000000-0000-0000-0000-000000000000">
+      <Underlying R="0.21952623128890991" G="0.3613068163394928" B="0.95597332715988159" A="1" />
+    </Parameter>
+    <Parameter xsi:type="PDouble" Name="Ground brightness" Value="0.64999997615814209" />
+    <Parameter xsi:type="PBoolean" Name="Soft clip" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

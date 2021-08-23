@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="CLUTer" Name="Fjord Deep" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Pre-Process" />
+    <Parameter xsi:type="PDouble" Name="Input Noise" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Input Clarity" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Input Auto Level" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Value="false" />
+    <Parameter xsi:type="PChoice" Name="Sample Density" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Post-Process" />
+    <Parameter xsi:type="PDouble" Name="Color Noise" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Output Clarity" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Output Auto Level" Value="false" />
+    <Parameter xsi:type="PString" Name="Data" Value="FF092024|0.568|FF133F44|0.096000000000001|FF336A70|0|FF0B282C|0.391106666666667|FF0E3034|0.279106666666666|" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

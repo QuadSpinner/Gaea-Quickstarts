@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Mountain" Name="m1" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Mountain" />
+    <Parameter xsi:type="PDouble" Name="Scale" Value="0.44" />
+    <Parameter xsi:type="PDouble" Name="Edge" Value="0" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="1673" />
+    <Parameter xsi:type="PTitle" Name="Shape" />
+    <Parameter xsi:type="PChoice" Name="Style" Value="2" />
+    <Parameter xsi:type="PChoice" Name="Type" Value="2" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>
