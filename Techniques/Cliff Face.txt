@@ -1,1 +1,0 @@
-Learn how to utilize terrain topology nodes to create a vertical cliff face.

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Erosion" Name="Superficial Debris" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Erosion" />
+    <Parameter xsi:type="PDouble" Name="Duration" Value="0.12483041825095129" />
+    <Parameter xsi:type="PDouble" Name="Rock Softness" Value="0.65" />
+    <Parameter xsi:type="PDouble" Name="Strength" Value="0.045062357414449639" />
+    <Parameter xsi:type="PTitle" Name="Downcutting" />
+    <Parameter xsi:type="PDouble" Name="Downcutting" Value="0" />
+    <Parameter xsi:type="PDouble" Name="Inhibition" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Base Level" Value="0" />
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PBoolean" Name="Real Scale" Value="true" />
+    <Parameter xsi:type="PInt" Name="Feature Scale" Value="2000" />
+    <Parameter xsi:type="PInt" Name="Terrain Scale" Value="10000" />
+    <Parameter xsi:type="PInt" Name="Verticality" Value="2000" />
+    <Parameter xsi:type="PTitle" Name="Flow" />
+    <Parameter xsi:type="PDouble" Name="Debris" Value="0.6768060836501959" />
+    <Parameter xsi:type="PDouble" Name="Volume" Value="0" />
+    <Parameter xsi:type="PBoolean" Name="Rivers" Value="false" />
+    <Parameter xsi:type="PDouble" Name="Depth" Value="0.035" />
+    <Parameter xsi:type="PTitle" Name="Selective Processing" />
+    <Parameter xsi:type="PChoice" Name="Mask" Value="1" />
+    <Parameter xsi:type="PChoice" Name="Bias Type" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Bias" Value="0.90342205323193991" />
+    <Parameter xsi:type="PBoolean" Name="Reverse" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Other Settings" />
+    <Parameter xsi:type="PInt" Name="Seed" Value="2366" />
+    <Parameter xsi:type="PBoolean" Name="Aggressive Mode" Value="true" />
+    <Parameter xsi:type="PBoolean" Name="Disable Parallel Processing" Value="false" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

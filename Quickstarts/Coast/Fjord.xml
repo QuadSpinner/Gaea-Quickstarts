@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+    <Id>e1421133-45da-4266-902f-d4e14f6fef02</Id>
+    <Name>Range</Name>
+    <Parameters>Style = With Base, Chaos = 23.11%, Scale X = 0.8, Scale Y = 0.7</Parameters>
+    <Text>Range is used in the "With Base" style to create a vast mountain range. The custom Size in Advanced Settings gives us slightly longer, non-uniform shapes.</Text>
+  </Note>
+  <Note>
+    <Id>61b99e83-7211-419f-8a7f-df124ed741cb</Id>
+    <Name>Wizard</Name>
+    <Parameters>Phase 1 = Craggy, Strength = High, Removal = High</Parameters>
+    <Text>Craggy erosion with high Removal and Strength consolidates the mountain range in to precise shapes and erodes the lowest area into flatness.</Text>
+  </Note>
+  <Note>
+    <Id>d52a91f3-1662-4a1a-9689-5626ae2869ec</Id>
+    <Name>FractalTerraces</Name>
+    <Parameters>Spacing = 3.51%</Parameters>
+    <Text>FractalTerraces add stratification and breakup the uniformity of the mountain range.</Text>
+  </Note>
+  <Note>
+    <Id>1ad8691c-0da2-49f2-b49d-195228ffb76c</Id>
+    <Name>Anastomosis</Name>
+    <Parameters>Impact = 27.73%, Flow Width = 96.06%, Erosion Depth = 96.90%, Flow = Rivers x4</Parameters>
+    <Text>Anastomosis' strong Width and Depth help carve out wide channels into the landscape within the existing flow structure. Our terrain portion of the Fjord is now ready.</Text>
+  </Note>
+  <Note>
+    <Id>c5861883-7483-43d6-a3fa-a61d573a21e0</Id>
+    <Name>Sea</Name>
+    <Parameters>Level = 5.00%, Coastal Erosion = False, Shore Height = 11.21%</Parameters>
+    <Text>The Sea node adds the water body to our Fjord. Since we are dealing with a vast landscape, Coastal Erosion is ignored.</Text>
+  </Note>
+</ArrayOfNote>

@@ -1,1 +1,0 @@
-Use Whorl to warp a terrain out of shape, and then use the power of erosion to make it look believable.

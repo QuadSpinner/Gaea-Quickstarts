@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+    <Id>f7be0e50-6d26-4fee-9dee-61d22da4c0e4</Id>
+    <Name>Crater</Name>
+    <Parameters>Profile = Impact Crater, Scale = 4.0, Depth = 2.0, Scale = 0.7, Height = 19.14%, Depth = 0.2, Inner Scale = 10.58%, Modulate = 0.4</Parameters>
+    <Text>A tall volcanic shape is created using the Impact Crater profile. Strong modulation and a small Inner Scale is the key to this look.
+
+In Post Process, Autolevel is used to make the shape as tall as possible.</Text>
+  </Note>
+  <Note>
+    <Id>f6afdc97-4ea2-4a81-860c-549b77f1d13e</Id>
+    <Name>Erosion</Name>
+    <Parameters>Duration = 11.74%, Random Sedimentation = 96.82%, Sediment Removal = 7.03%</Parameters>
+    <Text>Erosion with a high Duration is used to refine the volcano. Random Sedimentation helps create non-uniform fluvial lines.
+
+In Post Process, Clamp is used to reduce the height. We used Autolevel in the previous step to make Erosion stronger. Now we can remove that extra height.</Text>
+  </Note>
+  <Note>
+    <Id>ae1c9fd1-e7c9-4293-bed2-95cd8756a94b</Id>
+    <Name>Erosion</Name>
+    <Parameters>Downcutting = 0.00%, Inhibition = 500.00%, Base Level = 500.00%, Sediment Removal = 22.01%, Area Effect = Precipitation Amount, Bias = 94.91%</Parameters>
+    <Text>A second erosion pass, with settings that promote strong sedimentary flows is used to add the final touches.</Text>
+  </Note>
+</ArrayOfNote>

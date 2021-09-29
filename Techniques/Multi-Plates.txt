@@ -1,1 +1,0 @@
-Use a combination of Voronoi and Plates to craft a multi-level chain of mountains.

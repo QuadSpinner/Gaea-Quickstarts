@@ -1,1 +1,0 @@
-Use the Texture and Vegetation nodes to produce a sophisticated texture map for your terrain.

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+    <Id>f7be0e50-6d26-4fee-9dee-61d22da4c0e4</Id>
+    <Name>Crater</Name>
+    <Parameters>Scale = 4.0</Parameters>
+    <Text>We create a very large Craterfield where one large crater dominates the landscape.</Text>
+  </Note>
+  <Note>
+    <Id>f6afdc97-4ea2-4a81-860c-549b77f1d13e</Id>
+    <Name>Erosion</Name>
+    <Parameters>Random Sedimentation = 96.82%, Sediment Removal = 50.00%</Parameters>
+    <Text>Erosion with high Random Sedimentation and Sediment Removal gives our craterfield an eroded look without creating too many soil deposits. 
+
+This helps preserve the shape while adding erosive details.</Text>
+  </Note>
+  <Note>
+    <Id>e6fd4230-2dab-4873-a560-5b34b825cd0e</Id>
+    <Name>Shear</Name>
+    <Parameters />
+    <Text>Shear adds small structural collapses across all the crater walls.</Text>
+  </Note>
+  <Note>
+    <Id>508f3799-f3b1-4a09-87ba-8620c78b9185</Id>
+    <Name>Sea</Name>
+    <Parameters>Level = 3.65%, Shore Size = 100.00%, Shore Height = 20.47%, Variation = 100.00%, Extra Cliff Details = True</Parameters>
+    <Text>Finally we add coastal erosion with the Sea node that crates cliffs near the large crater wall, and large beaches near the water.</Text>
+  </Note>
+</ArrayOfNote>

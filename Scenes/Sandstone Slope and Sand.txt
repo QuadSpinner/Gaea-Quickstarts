@@ -1,1 +1,0 @@
-A strong sandstone rock formation with sand dunes below. This scene shows how to merge two independently created terrains, and use the Combine node's separation output to texture them individually and bring them together.

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+    <Id>f7be0e50-6d26-4fee-9dee-61d22da4c0e4</Id>
+    <Name>Crater</Name>
+    <Parameters />
+    <Text>We create a vast craterfield full of small and medium craters.</Text>
+  </Note>
+  <Note>
+    <Id>f6afdc97-4ea2-4a81-860c-549b77f1d13e</Id>
+    <Name>Erosion</Name>
+    <Parameters>Random Sedimentation = 96.82%, Sediment Removal = 50.00%</Parameters>
+    <Text>Erosion with high Random Sedimentation and Sediment Removal help us create an erosive look while avoiding soil deposits.</Text>
+  </Note>
+  <Note>
+    <Id>e6fd4230-2dab-4873-a560-5b34b825cd0e</Id>
+    <Name>Shear</Name>
+    <Parameters />
+    <Text>Shear helps us break up the uniforimity by adding structural collapses everywhere.</Text>
+  </Note>
+  <Note>
+    <Id>ca126639-a01f-45da-bb38-93c26b44db01</Id>
+    <Name>Lakes</Name>
+    <Parameters>Precipitation = 2.0</Parameters>
+    <Text>Small lakes are added using a low Precipitation value.</Text>
+  </Note>
+</ArrayOfNote>

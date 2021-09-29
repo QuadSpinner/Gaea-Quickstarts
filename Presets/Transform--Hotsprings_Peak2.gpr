@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Preset xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ApplicableType="Transform" Name="Hotsprings_Peak2" Description="">
+  <Paramaters>
+    <Parameter xsi:type="PTitle" Name="Scale" />
+    <Parameter xsi:type="PBoolean" Name="Uniform" Value="true" />
+    <Parameter xsi:type="PDouble" Name="Scale" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Scale X" Value="1" />
+    <Parameter xsi:type="PDouble" Name="Scale Y" Value="1" />
+    <Parameter xsi:type="PBoolean" Name="Unfiltered" Value="false" />
+    <Parameter xsi:type="PBoolean" Name="Fill Edges" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Rotation" />
+    <Parameter xsi:type="PInt" Name="Angle" Value="321" />
+    <Parameter xsi:type="PBoolean" Name="Mirror Edges" Value="false" />
+    <Parameter xsi:type="PTitle" Name="Position" />
+    <Parameter xsi:type="PDouble" Name="X" Value="0.0075992817958223" />
+    <Parameter xsi:type="PDouble" Name="Y" Value="-0.34883636176851013" />
+  </Paramaters>
+  <PresetType>User</PresetType>
+</Preset>

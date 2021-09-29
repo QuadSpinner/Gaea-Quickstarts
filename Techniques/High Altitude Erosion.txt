@@ -1,1 +1,0 @@
-By confining the Erosion node's precipitation to higher altitudes only, you can get faster performance in many cases and interesting shapes. Doing this also protects the shapes in the lower altitudes from eroding too much.

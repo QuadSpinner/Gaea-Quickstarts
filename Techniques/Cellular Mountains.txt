@@ -1,1 +1,0 @@
-A simple yet powerful way to craft multi-crater systems using Whorl.

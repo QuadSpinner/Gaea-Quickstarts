@@ -1,1 +1,0 @@
-Here's a technique to create a lake high up on an existing terrain, and then mask it for texturing.

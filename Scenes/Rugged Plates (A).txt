@@ -1,3 +1,0 @@
-A dark and treacherous terrain inspired by the dark lands of Mordor from Lord of the Rings. This erosion-free terrain uses other nodes to create a realistic look.
-
-A good example of how to achieve great terrains without employing the Erosion node.

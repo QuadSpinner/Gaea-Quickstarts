@@ -1,1 +1,0 @@
-This simple technique shows how to erode a terrain using multiple erosion nodes with specific settings vs. strongly eroding a terrain with a single node.

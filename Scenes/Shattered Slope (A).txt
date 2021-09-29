@@ -1,1 +1,0 @@
-Turn a simple gradient into a warp-structured, terraced landscape.
